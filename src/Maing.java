@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;  //最小二乘法
 
 public class Maing {
     public static void main(String []args){
