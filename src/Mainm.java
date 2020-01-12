@@ -1,5 +1,5 @@
 import java.util.Scanner;
-        import java.util.Stack;         //洛谷
+        import java.util.Stack;         //洛谷中缀表达式
 
 public class Mainm {
     public static void main(String[] args) {
